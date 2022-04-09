@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="File_Type_Analyzer.File_Type_Analyzer-task-build-classes-java.main" target="11" />
+      <module name="File_Type_Analyzer.File_Type_Analyzer-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="File_Type_Analyzer.File_Type_Analyzer-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="File_Type_Analyzer.File_Type_Analyzer-task-build-reports-tests.main" target="11" />
+      <module name="File_Type_Analyzer.File_Type_Analyzer-task-build-test-results.main" target="11" />
+      <module name="File_Type_Analyzer.File_Type_Analyzer-task-build-tmp.main" target="11" />
+      <module name="File_Type_Analyzer.File_Type_Analyzer-task.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Callable_and_Future-Create_a_callable.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Callable_and_Future-Execute_Callable_objects.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Callable_and_Future-Get_the_result.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Callable_and_Future-How_many_tasks_are_finished.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Callable_and_Future-Submitting_Callable.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Callable_and_Future-Theory.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Callable_and_Future-What_is_Callable.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Callable_and_Future-What_is_Future.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Interruptions-Handling_interruptions.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Interruptions-Interrupt_method.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Interruptions-Interrupting_a_thread.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Interruptions-Theory.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Interruptions-What_does_the_invocation_cause.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Processing_strings-Compression_algorithm.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Processing_strings-Convert_a_date.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Processing_strings-Create_an_euphonious_word.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Processing_strings-Cutting_out_the_middle_of_a_string.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Processing_strings-Determine_the_output.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Processing_strings-Determine_the_value.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Processing_strings-Double_characters.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Processing_strings-Find_the_first_occurrence_of_the_word__the.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Processing_strings-Generating_passwords.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Processing_strings-Move_the_first_N_characters.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Processing_strings-Number_of_occurrences.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Processing_strings-Palindrome.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Processing_strings-Parse_url.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Processing_strings-Piece_of_alphabet.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Processing_strings-The_longest_word.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Processing_strings-The_lucky_ticket.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Processing_strings-The_percentage_of_G_and_C_characters.main" target="11" />
+      <module name="File_Type_Analyzer.Topics-Processing_strings-Theory.main" target="11" />
+      <module name="File_Type_Analyzer.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

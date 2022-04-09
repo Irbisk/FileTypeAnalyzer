@@ -1,0 +1,24 @@
+<html>
+ <head></head>
+ <body>
+  <p>What is an output of this code snippet?</p> 
+  <pre><code class="language-java">class Main {
+    public static void main(String[] args) {
+        Thread thread = new Thread(() -&gt; {
+            if (!Thread.interrupted()) {
+                System.out.println(Thread.interrupted());
+            } else {
+                while (true) {
+                    if (!Thread.interrupted()) {
+                        System.out.println(Thread.interrupted());
+                        break;
+                    }
+                }
+            }
+        });
+        thread.start();
+        thread.interrupt();
+    }
+}</code></pre>
+ </body>
+</html>

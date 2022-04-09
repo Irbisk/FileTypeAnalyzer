@@ -1,0 +1,26 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: it causes the interrupted exception in the current thread if the <b>thread</b>
+    is sleeping
+- text: it interrupts the current thread
+- text: it stops the current thread
+- text: it immediately stops <b>thread</b>
+- text: it causes the interrupted exception in <b>thread</b> if it is sleeping
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2533#comment
+status: Solved
+record: -1
